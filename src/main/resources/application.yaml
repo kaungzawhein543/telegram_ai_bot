@@ -1,0 +1,7 @@
+spring:
+    application:
+      name: Boyfriend_chatbot
+
+telegram:
+  bot:
+    token: ${TELEGRAM_BOT_TOKEN}
